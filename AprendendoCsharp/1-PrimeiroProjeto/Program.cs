@@ -10,6 +10,9 @@ namespace _1_PrimeiroProjeto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá Mundo. Projeto no Visual Studio!");
+            Console.WriteLine("A execução acabou. Tecle enter para finalizar..");
+            Console.ReadLine();
         }
     }
 }
