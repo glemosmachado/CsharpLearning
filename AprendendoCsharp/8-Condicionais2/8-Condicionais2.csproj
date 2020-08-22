@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4C5689D9-3FCF-42B6-9137-B2061D9E966E}</ProjectGuid>
+    <ProjectGuid>{AE2323F2-0E5C-41B1-81DA-C88973D05847}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_4_ConversoesEOutrosTiposNumericos</RootNamespace>
-    <AssemblyName>4-ConversoesEOutrosTiposNumericos</AssemblyName>
+    <RootNamespace>_8_Condicionais2</RootNamespace>
+    <AssemblyName>8-Condicionais2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
