@@ -1,0 +1,6 @@
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\ImparPar\bin\Debug\ImparPar.exe.config
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\ImparPar\bin\Debug\ImparPar.exe
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\ImparPar\bin\Debug\ImparPar.pdb
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\ImparPar\obj\Debug\ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\ImparPar\obj\Debug\ImparPar.exe
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\ImparPar\obj\Debug\ImparPar.pdb
