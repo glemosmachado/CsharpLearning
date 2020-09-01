@@ -4,3 +4,4 @@ C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\Fatorial\bin\Debug\Fa
 C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
 C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\Fatorial\obj\Debug\Fatorial.exe
 C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\Fatorial\obj\Debug\Fatorial.pdb
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\Fatorial\obj\Debug\Fatorial.csprojAssemblyReference.cache

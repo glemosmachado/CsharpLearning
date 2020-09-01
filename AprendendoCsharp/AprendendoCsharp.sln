@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImparPar", "ImparPar\ImparP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Fatorial\Fatorial.csproj", "{A02CF76F-5C7A-48CD-8188-900903839FE0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U1-EntradaDeDados", "U1-EntradaDeDados\U1-EntradaDeDados.csproj", "{F28659BD-8DDA-4C0E-944D-CE21DC15A02C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{A02CF76F-5C7A-48CD-8188-900903839FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A02CF76F-5C7A-48CD-8188-900903839FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A02CF76F-5C7A-48CD-8188-900903839FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28659BD-8DDA-4C0E-944D-CE21DC15A02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28659BD-8DDA-4C0E-944D-CE21DC15A02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28659BD-8DDA-4C0E-944D-CE21DC15A02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28659BD-8DDA-4C0E-944D-CE21DC15A02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

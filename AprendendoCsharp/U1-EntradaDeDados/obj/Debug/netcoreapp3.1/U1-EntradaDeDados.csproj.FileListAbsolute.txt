@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\bin\Debug\netcoreapp3.1\U1-EntradaDeDados.exe
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\bin\Debug\netcoreapp3.1\U1-EntradaDeDados.deps.json
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\bin\Debug\netcoreapp3.1\U1-EntradaDeDados.runtimeconfig.json
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\bin\Debug\netcoreapp3.1\U1-EntradaDeDados.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\bin\Debug\netcoreapp3.1\U1-EntradaDeDados.dll
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\bin\Debug\netcoreapp3.1\U1-EntradaDeDados.pdb
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\obj\Debug\netcoreapp3.1\U1-EntradaDeDados.csprojAssemblyReference.cache
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\obj\Debug\netcoreapp3.1\U1-EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\obj\Debug\netcoreapp3.1\U1-EntradaDeDados.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\obj\Debug\netcoreapp3.1\U1-EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\obj\Debug\netcoreapp3.1\U1-EntradaDeDados.dll
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\obj\Debug\netcoreapp3.1\U1-EntradaDeDados.pdb
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U1-EntradaDeDados\obj\Debug\netcoreapp3.1\U1-EntradaDeDados.genruntimeconfig.cache
