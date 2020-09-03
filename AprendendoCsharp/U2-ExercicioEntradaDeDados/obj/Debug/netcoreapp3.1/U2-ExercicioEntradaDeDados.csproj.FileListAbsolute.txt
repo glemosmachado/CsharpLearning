@@ -1,0 +1,13 @@
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\bin\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.exe
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\bin\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.deps.json
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\bin\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.runtimeconfig.json
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\bin\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\bin\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.dll
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\bin\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.pdb
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\obj\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.csprojAssemblyReference.cache
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\obj\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\obj\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\obj\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\obj\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.dll
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\obj\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.pdb
+C:\Users\Gabriel\Documents\CsharpLearning\AprendendoCsharp\U2-ExercicioEntradaDeDados\obj\Debug\netcoreapp3.1\U2-ExercicioEntradaDeDados.genruntimeconfig.cache
