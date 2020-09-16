@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _05_ByteBank
+namespace _06_ByteBank
 {
     class Program
     {
@@ -27,7 +27,7 @@ namespace _05_ByteBank
 
 
             Console.WriteLine();
-            Console.WriteLine(conta.titular.nome);
+            Console.WriteLine(conta.Titular.nome);
 
 
             Console.ReadLine();
